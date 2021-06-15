@@ -193,11 +193,11 @@ function changeMediaTo(media) {
 <div class="swiper-wrapper">
 <!-- Slides -->
 <div class="col-md-4 d-flex align-items-center justify-content-center swiper-slide flex-column" data-aos="fade-up">
-<a href="https://www.instagram.com/_.raifu.op_/">
+<a href="https://www.instagram.com/Muhammed_Rahif_/">
 <div class="m-3 bg-black p-5 text-center social-card text-white">
       <i class="fab fa-instagram"></i>
       <h5 class="h5">Instagram</h5>
-      <p class="p">@raifu.op_</p>
+      <p class="p">@Muhammed_Rahif_</p>
   </div>
   </a>
 </div>
@@ -275,11 +275,11 @@ function changeMediaTo(media) {
     $("#social-cards-section").append(`
   
   <div class="col-md-4 d-flex align-items-center justify-content-center flex-column" data-aos="fade-up" data-aos-delay="250">
-  <a href="https://www.instagram.com/_.raifu.op_/">
+  <a href="https://www.instagram.com/Muhammed_Rahif_/">
   <div class="m-3 bg-black p-5 text-center social-card text-white">
       <i class="fab fa-instagram"></i>
       <h5 class="h5">Instagram</h5>
-      <p class="p">@raifu..op_</p>
+      <p class="p">@Muhammed_Rahif_</p>
   </div>
   </a>
 </div>
